@@ -1,0 +1,174 @@
+*{
+	margin: ;
+	padding: ;
+	font-family: sans-serif;
+}
+.globe{
+	display: inline-block;
+	width: 170px;
+	height: 180px;
+	margin-bottom: -30px;
+	margin-left: 5%;
+}
+
+.topHeader{
+	display: inline-block;
+	font-size: 80px;
+	vertical-align: top;
+	padding-top: 40px;
+}
+.theInter{
+	color: #474747;
+}
+.net{
+	color: #26669c;
+}
+#wwwHeader{
+	margin-left: 5%;
+	display: block;
+	background-color: #26669c;
+	height: 70px;
+	color: white;
+	padding-left: 15px;
+	padding-top: 7px;
+	font-size: 45px;
+	width: 85%;
+}
+
+.leftColumn
+{
+	font-size: 20px;
+	width: 15%;
+	margin-left: 5%;
+	display: inline-block;
+}
+#whatIsInternet{
+	margin-top: 30px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+#internetExplained{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.redText{
+	color: red;
+}
+.blueText{
+	color: #26669c;
+	display: inline-block;
+	font-weight: bold;
+}
+.button{
+	font-size: 20px;
+	width: 90%;
+	height: 30px;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.videoButton{
+	background-color: #26669c;
+}
+.resourcesButton{
+	background-color: #ed7d12;
+	margin-bottom: 30px;
+}
+.divider{
+	height: 2px;
+	background-color: #9a9a9a;
+	width: 100%;
+	margin: 10px 0px 20px;
+}
+
+
+#sidebar{
+	background-image: url("ad_background.png");
+	height: 500px;
+	width: 100%;
+	color: white;
+	text-align: center;
+	font-size: 150%;
+	padding-top: 25px;
+}
+.ninja{
+	width: 200px;
+}
+
+.contentColumn{
+	width: 70%;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 20px;
+}
+
+#DNSrow{
+	margin-top: 25px;
+	margin-left: 25px;
+	vertical-align: top;
+}
+#home{
+	display: inline-block;
+	width:30px;
+	height: 30px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+#phone{
+	display: inline-block;
+	margin-left: 65%;
+	width: 40px;
+	height: 40px;
+	vertical-align: top;
+	display: inline-block;
+}
+#phoneInfoParent{
+	display: inline-block;
+	vertical-align: top;
+}
+.phoneText{
+	font-size: 10px;
+}
+.phoneNumber{
+	color: #00c0dd;
+	font-weight: bold;
+}
+#centerColumnText{
+	padding-left: 30px;
+	font-size: 20px;
+}
+.blueTitleText{
+	font-size: 35px;
+	color: #26669c;
+}
+.lightBlueText{
+	color: #0297ad;
+}
+.boldBlackText{
+	color: black;
+	font-weight: bold;
+}
+.centerColumnList{
+	width:80%;
+}
+
+#serverClientImage{
+	width: 400px;
+	margin-left: 20%;
+}
+#bottomBox{
+	width: 95%;
+	height: 200px;
+	border: solid 5px #0087dd;
+	padding: 10px;
+}
+#trinity{
+	height:100%;
+	display: inline-block;
+	vertical-align: top;
+}
+#blueBoxText{
+	display: inline-block;
+	vertical-align: top;
+}
